@@ -1,4 +1,5 @@
 Milestone 1 - Weather Defense (Unit 7)
+Group Members: Group Members: Kasaan Dornelus, Clyde Baidoo, Nickolas Bigelow 
 Table of Contents
 Overview
 Product Spec
