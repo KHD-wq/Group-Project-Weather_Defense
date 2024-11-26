@@ -33,15 +33,14 @@ Button to witch back to first screen.
 city input screen
 the user will identify a city to find the weather report from openforcaste.
 ...
-[list second screen here]
-[list associated required story here]
+[Weather Forcast]
+[this screen will diplay the weather forcaste for the selected city. Information includes sky conditions, temperature, wind speed, humidity.]
 ...
 3. Navigation
 Tab Navigation (Tab to Screen)
 
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
+[Load Weather tab]
+[Weather condition tab]
 Flow Navigation (Screen to Screen)
 
 [list first screen here]
