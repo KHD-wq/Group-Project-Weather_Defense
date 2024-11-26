@@ -54,12 +54,10 @@ Flow Navigation (Screen to Screen)
 [Back button]
 ...
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+ ![20241126_004321](https://github.com/user-attachments/assets/18027d68-7c28-4a6a-abc8-54c8f1a8a91d)
 
 
 
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
 
 
 
