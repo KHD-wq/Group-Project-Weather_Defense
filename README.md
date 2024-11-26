@@ -43,11 +43,11 @@ Tab Navigation (Tab to Screen)
 [Weather condition tab]
 Flow Navigation (Screen to Screen)
 
-[list first screen here]
-[list screen navigation here]
+[Load Weather screen]
+[Load Weather button]
 ...
-[list second screen here]
-[list screen navigation here]
+[Weather condition screen]
+[Back button]
 ...
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
