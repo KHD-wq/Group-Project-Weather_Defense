@@ -21,18 +21,17 @@ Product Spec
 1. User Features (Required and Optional)
 Required Features
 
-API request
-
-...
+Explore API documentation and identify endpoints to use
+Display API fetched data in multiple custom layouts
+Edit text o allow user to find a specific city forcast.
 ...
 Optional Features
-
-[fill in your optional user features here]
+Button to witch back to first screen.
 ...
 ...
 2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
+city input screen
+the user will identify a city to find the weather report from openforcaste.
 ...
 [list second screen here]
 [list associated required story here]
