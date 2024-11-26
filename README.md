@@ -10,9 +10,8 @@ Description
 [Description: A flixster app that generates weather reports about a city based on inform from a wether website. This works by using an API key to request weather results from a openweather.com. The app will information such as temperature, sky forcaste, wind speeds etc.. First the user will ne asked to input a city usng the "Edittext". There will aslso be a button called "Get Weather." When clicked, the user will be taken to a new screen where the oinformation about the westher will be displayed. There will aso be a back button to return to the first screen.
 ]
 
-App Evaluation
-[Evaluation of your app across the following attributes]
 
+App Evaluation
 Category:
 Mobile: This app was made by incoorporating all of the skills and strategies that we have aquired during this courge with code Codepath and our professor. Out of the skills we learned this app incoorporates things like Recyclerview, API requests, buttons, FLIXSTER, etc. 
 Story: This app was made using skills aquire from Codepath course. The basic questions were 
