@@ -18,7 +18,7 @@ Mobile: This app was made by incoorporating all of the skills and strategies tha
 Story: This app was made using skills aquire from Codepath course. The basic questions were 
 Market: This app is "E for everyone" as it is meant to be sonsumed by a people of wide demographic backrounds. After all, everyone talks about the weather.
 Habit: This app is very likely to be used by anyone who may need. Dressing for the weather is a daily occurence. Parents needing to dress their kinds for the weather, espcially during the schools year? College students needing to travel a fair distance to get to school? Families or friends traveking on roads trips? Travel for business meetings? All that can be addressed with this app. From the hot Suns of the Sprine and Summer, to the ice cold snow of the Winter, to the varing skys of Fall.
-Scope:
+Scope:Simple and effective.
 
 
 Product Spec
